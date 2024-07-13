@@ -1,6 +1,8 @@
 # Create a professional blog app using React.js and Tailwind CSS
 ![image](https://github.com/user-attachments/assets/a5e1e9c5-eb92-4ffa-a761-4d00d1999c0c)
-
+- Demo: https://professional-blog-app-using-react-js-and-tailwind-css.vercel.app/
+- Code: https://github.com/GmMamunH/Create-a-professional-blog-app-using-React.js-and-Tailwind-CSS
+ 
 ## To create a professional blog app using React.js and Tailwind CSS that loads data from a JSON file and displays post details when a link is clicked, follow these steps:
 
 ### 1. Setting Up the Project
